@@ -77,7 +77,13 @@ img {
     width: 60%;
 }
 
+.middle {
+    padding-top: 200px;
+}
 
+.password-recovery-inner .row .col-lg-6.col-md-12.col-sm-12.col-12.banner {
+    padding: 0;
+}
 
 /* password recovery styling end */
 /* form styling start */
@@ -209,7 +215,7 @@ div#login span a {
     content: " ";
     display: block;
     border-bottom: 1px solid #B3B3B3;
-    
+
 }
 
 
