@@ -228,5 +228,20 @@ div#login span a {
     padding: 20px;
     width: 100%;
     max-width: 279px;
-    height: 100vh;
+    min-height: 100vh;
+}
+
+.navigation nav.side-menu ul li a {
+    color: #cccccc;
+    text-align: left;
+    font-family: "OpenSans-SemiBold", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    position: relative;
+}
+
+.navigation nav.side-menu ul li a img {
+    max-width: 26px;
+    height: 26px;
+    object-fit: contain;
 }
