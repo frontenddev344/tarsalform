@@ -16,12 +16,7 @@ a {
     padding: 0;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {}
+
 
 a,
 a:hover,
@@ -220,3 +215,18 @@ div#login span a {
 
 
 /* welcome styling start form */
+
+/* home-dashboard-chat-collapsed  page css */
+.home-dashboard-chat-collapsed {
+    width: 100%;
+    max-width: 100%;
+    display: flex;
+}
+
+.home-dashboard-chat-collapsed .sidebar {
+    background-color: #0E0C36;
+    padding: 20px;
+    width: 100%;
+    max-width: 279px;
+    height: 100vh;
+}
